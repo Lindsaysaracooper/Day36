@@ -1,0 +1,25 @@
+.documentCopy {
+  width: 80%;
+  margin: 0 auto;
+  font-size: 1.2rem; }
+
+.readbox {
+  float: right;
+  font-size: 1.5rem; }
+
+.modal-container {
+  position: absolute;
+  bottom: 25vh;
+  left: 20%;
+  opacity: 0.9;
+  background: white;
+  padding: 3%;
+  text-align: center;
+  width: 50%; }
+
+#read {
+  background: #FCDFA8;
+  height: 4vh;
+  margin-left: 2%; }
+
+/*# sourceMappingURL=main.css.map */
